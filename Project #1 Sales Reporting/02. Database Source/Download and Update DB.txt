@@ -1,0 +1,5 @@
+AdventureWorks 2022 Database (Download DW and LT .bak):
+https://learn.microsoft.com/es-es/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Update Database to date:
+https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql
